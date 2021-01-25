@@ -1,4 +1,4 @@
-##INTEGRANTES
+###INTEGRANTES
 Juan Can 
 Jose Luis Carrillo 
 Jesus Leal
