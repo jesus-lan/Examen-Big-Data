@@ -5,7 +5,7 @@ En este repositorio se alojaran los datos del examen del dia 25/01/2021
 Descripcion General 
 El propósito de este proyecto es de proteger tu casa al cerrarlas por completo para evitar el sol,
 la lluvia o que los transeúntes vean dentro de tu hogar, mediante el uso de sensores y actuadores 
-realizar todo eso de manera automática, para un hogar más cómodo
+realizar todo eso de manera automática, para un hogar más cómodo y eficaz
 
 
 ### Las 5V del big data:
