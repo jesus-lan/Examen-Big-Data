@@ -1,3 +1,8 @@
+##INTEGRANTES
+Juan Can 
+Jose Luis Carrillo 
+Jesus Leal
+
 # Examen-Big-Data
 En este repositorio se alojaran los datos del examen del dia 25/01/2021
 ### SMART DRAPE (CORTINA INTELIGENTE).
@@ -32,3 +37,4 @@ del clima donde estuviera alojado el producto.
 Como punto final de las 5 V en nuestro proyecto tendremos contemplado el valor de los datos en la parte que
 corresponde al monitoreo del clima y la oportnidad de poder brindarle al usuario una sugerencia en cuanto al 
 estado del clima, asi como poder maniuplar de manera automatica la cortina para evitar inundaciones dentro del hogar.   
+
