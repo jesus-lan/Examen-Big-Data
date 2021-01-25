@@ -1,6 +1,6 @@
 # Examen-Big-Data
 En este repositorio se alojaran los datos del examen del dia 25/01/2021
-### SMART DRAPE (CORTINA INTELIGENTE)
+### SMART DRAPE (CORTINA INTELIGENTE).
 
 Descripcion General 
 El propósito de este proyecto es de proteger tu casa al cerrarlas por completo para evitar el sol,
